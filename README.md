@@ -1,4 +1,4 @@
-# restraunt-billing-software
+# restaurant-billing-software
 In this billing software, you can 
 1. GENERATE INVOICE and SAVE IT.
 2. VIEW PREVIOUSLY SAVED INVOICES.
